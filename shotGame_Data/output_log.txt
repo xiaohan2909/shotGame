@@ -1,0 +1,30 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1404]
+    Renderer: AMD Radeon HD 5700 Series
+    Vendor:   ATI
+    VRAM:     1015 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\UProjects\shotGame\shotGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\UProjects\shotGame\shotGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\UProjects\shotGame\shotGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\UProjects\shotGame\shotGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.156 seconds
+desktop: 1440x900 60Hz; virtual: 2880x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Projects\UProjects\shotGame\shotGame_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.318547 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.861300 ms (FindLiveObjects: 0.021710 ms CreateObjectMapping: 0.009078 ms MarkObjects: 0.153549 ms  DeleteObjects: 0.013420 ms)
+
+UnloadTime: 1.196031 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 162.
+Total: 0.813143 ms (FindLiveObjects: 0.007499 ms CreateObjectMapping: 0.009078 ms MarkObjects: 0.137760 ms  DeleteObjects: 0.019736 ms)
+

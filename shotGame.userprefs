@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\ArtOfSword\Assets\Script\UI\GameOverScript.cs">
+    <Files>
+      <File FileName="..\ArtOfSword\Assets\Script\Others\HealthScript.cs" Line="42" Column="44" />
+      <File FileName="..\ArtOfSword\Assets\Script\Control\MoveScript.cs" Line="30" Column="1" />
+      <File FileName="..\ArtOfSword\Assets\Script\UI\GameOverScript.cs" Line="45" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
